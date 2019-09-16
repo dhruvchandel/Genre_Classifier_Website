@@ -1,0 +1,126 @@
+h1{
+	font-family: 'Permanent Marker', cursive;
+	text-align: center ;
+	font-weight: bolder ;
+	font-size: 5em ;
+	background-image: url("sparkimg.jpg") ;
+	background-size: cover ;
+}
+
+body{
+	background-image: url("sparkimg1.jpg"); ;
+}
+
+.Dhruv{
+	background-image: url("sparkimg.jpg") ;
+	background-size: cover ;
+}
+
+.Kunal{
+	background-image: url("sparkimg.jpg") ;
+	background-size: cover ;
+}
+
+.Kartik{
+	background-image: url("sparkimg.jpg") ;
+	background-size: cover ;
+}
+
+.Dhruv h2{
+	font-family: 'Lexend Deca', sans-serif;
+	font-size: 2.7em ;
+	font-weight: bold;
+}
+
+.Dhruv p{
+	font-family: 'Pacifico', cursive;
+	font-size: 1.5em;
+	max-width: 50% ;
+}
+
+.Dhruv img{
+	margin: 2em ;
+	float: left; 
+	max-height: 350px ;
+	max-width: 350px ;
+	width: auto ;
+	height: auto ; 
+	border-radius: 10% ;
+}
+
+.Dhruv a{
+	float: right ;
+	margin-right: 20% ;
+}
+
+
+.Kunal img{
+	margin: 2em ;
+	float: right; 
+	max-height: 350px ;
+	max-width: 350px ;
+	width: auto ;
+	height: auto ; 
+	border-radius: 10% ;
+}
+
+.Kunal a{
+	float: left ;
+	margin-left: 20% ;
+	/*margin-right: 20% ;*/
+}
+
+.Kunal h1{
+	font-family: 'Permanent Marker', cursive;
+	text-align: right ;
+	font-weight: bolder ;
+	font-size: 5em ;
+}
+
+.Kunal h2{
+	font-family: 'Lexend Deca', sans-serif;
+	font-size: 2.7em ;
+	font-weight: bold;
+	text-align : right;
+}
+
+.Kunal p{
+	font-family: 'Pacifico', cursive;
+	font-size: 1.5em;
+	text-align : right;
+	margin-left: 45% ;
+}
+
+.Kartik h1{
+	font-family: 'Permanent Marker', cursive;
+	text-align: center ;
+	font-weight: bolder ;
+	font-size: 5em ;
+}
+
+.Kartik h2{
+	font-family: 'Lexend Deca', sans-serif;
+	font-size: 2.7em ;
+	font-weight: bold;
+}
+
+.Kartik p{
+	font-family: 'Pacifico', cursive;
+	font-size: 1.5em;
+	max-width: 50% ;
+}
+
+.Kartik img{
+	margin: 2em ;
+	float: left; 
+	max-height: 350px ;
+	max-width: 350px ;
+	width: auto ;
+	height: auto ; 
+	border-radius: 10% ;
+}
+
+.Kartik a{
+	float: right ;
+	margin-right: 20% ;
+}

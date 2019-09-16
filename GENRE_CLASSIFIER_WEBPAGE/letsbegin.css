@@ -1,0 +1,35 @@
+body{
+	background-image: url("bkg1edit.png") ;
+	background-repeat: no-repeat;
+	background-size: cover;
+	/*border: solid 1em black ;*/
+}
+
+.vidInput{
+text-align: center;
+	font-family: 'Pacifico', cursive;
+	font-weight: bold ;
+	color: green ;
+	font-size: 1.5em ;
+	background-color: rgba(54,67,76,0.5);
+}
+
+html{
+	/*margin : 25px 25px 25px 25px ;*/
+	/*background-color: black;*/
+	/*border : 4em 4em 4em 4em solid black;*/
+}
+
+.Input{
+	text-align: center;
+	font-family: 'Pacifico', cursive;
+	font-weight: bold ;
+	color: green ;
+	font-size: 3em ;
+	background-color: rgba(0,0,0,1) ;
+	margin-top: 20%;
+	padding-bottom: 1em;
+	padding-top: 1em ;
+	width: 60% ; 
+	border-radius: 3em;
+}
